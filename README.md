@@ -16,4 +16,4 @@ No seguindo texto, já um pouco mais informal e com 3 frases, a IA conseguiu tam
 <br>
 
 ## 📒 Conclusão
-A IA da Azure acaba sendo mais eficiente e detalhista quando está em uma linguagem familiar, como o inglês, mas não quer dizer que isso invalida a sua funcionalidade. Através desse estudo entendi o vasto acervo que o Azure possui, tendo tanto o Language Studio, quanto o Speech Studio.
+A IA da Azure acaba sendo mais eficiente e detalhista quando está em uma linguagem familiar, como o inglês, mas não quer dizer que isso invalida a sua funcionalidade. Através desse estudo entendi o vasto acervo de recursos que o Azure oferece, tendo tanto o Language Studio, quanto o Speech Studio.
